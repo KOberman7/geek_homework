@@ -1,0 +1,5 @@
+Ivanov 10000
+Varlamov 30000
+Glozko 15000
+Evtyukova 50000
+Maximov 45000
